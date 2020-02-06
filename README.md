@@ -10,8 +10,8 @@ For this report I created various charts in R using ggplot2. We used the data fr
 
 Libraries used:
 
-Ggplot2
-Extrafont
+Ggplot2 <br>
+Extrafont <br>
 Haven
 
 Data Sources:
